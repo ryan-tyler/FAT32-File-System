@@ -4,6 +4,10 @@ OS Project to interpret a FAT32 file system image
 ## Description
 Implemented a user space shell applicaton capable of interpreting a FAT32 file system image.
 
+### **Link to fat32 image:**
+
+*https://github.com/CSE3320/FAT32-Assignment/blob/master/fat32.img*
+
 **The following commands shall be supported:**
 
 `open <filename>`
